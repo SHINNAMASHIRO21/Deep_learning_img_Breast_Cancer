@@ -4,3 +4,8 @@
 - Download the breast cancer datset from link bellow (will be upload next)
 - extract the .zip file
 - This using TensorFlow GPU version and Keras
+
+## Visualize Learning (Tensorboard):
+```
+tensorboard --logdir=logs_cancer
+```
