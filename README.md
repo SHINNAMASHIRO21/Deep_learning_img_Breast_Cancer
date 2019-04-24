@@ -9,4 +9,4 @@
 ```
 tensorboard --logdir=logs_cancer
 ```
-### Iam so sorry about the dataset because is very huge image dataset of canter image, than is any limitation of files in Github.
+### Iam so sorry about the dataset because is very huge image dataset of cancer image, than is any limitation of files in Github.
